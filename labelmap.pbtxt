@@ -1,0 +1,60 @@
+item {
+  id: 1
+  name: 'coffee'
+}
+
+item {
+  id: 2
+  name: 'can tuna'
+}
+
+item {
+  id: 3
+  name: 'can sausage'
+}
+
+item {
+  id: 4
+  name: 'toothpaste'
+}
+
+item {
+  id: 5
+  name: 'oat'
+}
+
+item {
+  id: 6
+  name: 'oat chips'
+}
+
+item {
+  id: 7
+  name: 'Meat loaf'
+}
+
+item {
+  id: 8
+  name: 'Corn chicken'
+}
+
+item {
+  id: 9
+  name: 'corn beef'
+}
+
+item {
+  id: 10
+  name: 'Milk'
+}
+
+item {
+  id: 11
+  name: 'Tea'
+}
+
+item {
+  id: 12
+  name: 'gargle'
+}
+
